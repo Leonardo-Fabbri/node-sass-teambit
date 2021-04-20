@@ -1,6 +1,6 @@
 // qui ci vanno gli oggetti si scrivono: @mixin mycontainer-flex{ display: flex; }
 // si esportano in un altro file scrivendo: classecontainerInquestione { @ include mycontainer-flex; }
-@mixin container {
+@mixin body {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
