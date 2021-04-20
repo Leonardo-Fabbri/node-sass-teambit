@@ -13,3 +13,11 @@ body {
   height: 100vh;
   background: red;
 }
+
+footer {
+  color: orange;
+}
+
+h3 {
+  display: inline-block;
+}

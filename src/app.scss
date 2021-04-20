@@ -11,6 +11,15 @@ body {
     height: 100vh;
     background: red;
 }
-@import 'partials/footer';
+footer {
+    color: orange;
+}
+h3 {
+    display: inline-block
+}
+
 @import 'partials/header';
 @import 'partials/main';
+@import 'partials/footer';
+@import  'partials/variables';
+@import 'partials/mixins'
