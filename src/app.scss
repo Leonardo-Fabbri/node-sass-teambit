@@ -1,25 +1,7 @@
-*{ 
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-h1 {
-    color: red;
-}
-body {
-    width: 100%;
-    height: 100vh;
-    background: red;
-}
-footer {
-    color: orange;
-}
-h3 {
-    display: inline-block
-}
+
 
 @import 'partials/header';
 @import 'partials/main';
 @import 'partials/footer';
 @import  'partials/variables';
-@import 'partials/mixins'
+@import 'partials/mixins';
