@@ -15,13 +15,24 @@
     // background-color: $sfondo-primo;
 }
 
-h2 {
-    font-size: 20px;
+.col-lg-3 {
+    width: 33.24%;
+    float: left;
+    height: 300px;
+    background-color: yellow;
+    border-left: 1px solid black;
 }
 
+h2 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 25px;
+}
 h4 {
     font-size: 20px;
 }
+
 .blue-button {
     background-color: blue;
     display: $inline;
