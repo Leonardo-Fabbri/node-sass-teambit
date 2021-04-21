@@ -1,0 +1,19 @@
+.col-lg-12 {
+    width: 100%;
+}
+.col-lg-6-dx {
+    width: 50%;
+    height: $altezza-header;
+    float: left;
+    background-color: $sfondo-secondo;
+
+}
+
+.col-lg-6-sx {
+    width: 50%;
+    height: $altezza-header;
+    float: left;
+    background-color: $sfondo-primo;
+
+}
+
