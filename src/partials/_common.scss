@@ -1,11 +1,12 @@
 .col-lg-12 {
     width: 100%;
+
 }
 .col-lg-6-dx {
     width: 50%;
     height: $altezza-header;
     float: left;
-    background-color: $sfondo-secondo;
+    // background-color: $sfondo-secondo;
 
 }
 
@@ -13,7 +14,6 @@
     width: 50%;
     height: $altezza-header;
     float: left;
-    background-color: $sfondo-primo;
-
+    // background-color: $sfondo-primo;
 }
 

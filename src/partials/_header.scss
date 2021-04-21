@@ -1,0 +1,27 @@
+img {
+    padding-top: 10px;
+    margin-left: 20px;
+
+}
+.menu-destra {
+    margin-left: 320px;
+}
+ul {    
+    display: inline-block;
+    li {
+        list-style: none;
+        display: inline-block;
+        margin-left: 20px;
+    }
+}
+button {
+    margin-left: 25px;
+    border: 1px solid blue;
+    color: blue;
+    border-radius: $border-radius;
+    padding: 5px;
+}
+hr {
+    width: 99%;
+    margin: 0 auto;
+}
