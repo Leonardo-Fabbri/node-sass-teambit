@@ -4,7 +4,6 @@
 }
 .col-lg-6-dx {
     width: 50%;
-    height: $altezza-header;
     float: left;
     // background-color: $sfondo-secondo;
 
@@ -12,8 +11,35 @@
 
 .col-lg-6-sx {
     width: 50%;
-    height: $altezza-header;
     float: left;
     // background-color: $sfondo-primo;
 }
 
+h2 {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 20px;
+}
+.blue-button {
+    background-color: blue;
+    display: $inline;
+    border-radius: $border-radius;
+    padding: 5px;
+    color: white;
+    #loghi {
+        width: 18px;
+        width: 18px;
+        display: $inline;
+        vertical-align: middle;
+
+    }
+    .text {
+        display: $inline;
+        // vertical-align: middle;
+    }
+}
+.or {
+    display: $inline;
+}
