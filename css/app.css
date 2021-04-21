@@ -87,6 +87,10 @@ main {
   background-color: purple;
   border-top: 2px solid black;
 }
+.two .PinkSection .pictures-places .col-lg-3 img {
+  width: 40%;
+  text-align: center;
+}
 
 .col-lg-12 {
   width: 100%;
