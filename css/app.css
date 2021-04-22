@@ -3,6 +3,16 @@
   margin-left: 20px;
 }
 
+header {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.header {
+  width: 95%;
+  margin: 0 auto;
+}
+
 .menu-destra {
   margin-left: 270px;
 }
@@ -43,14 +53,18 @@ ul li {
   margin-bottom: 2px;
 }
 
+.line {
+  width: 99vw;
+}
+
 main {
-  width: 98%;
+  width: 100%;
   height: 500vh;
-  margin: 0 auto;
 }
 
 .one {
-  width: 100%;
+  width: 95%;
+  margin: 0 auto;
   height: 65vh;
   background-color: white;
 }
@@ -65,12 +79,15 @@ main {
 
 .two {
   background-color: pink;
+  padding-bottom: 20px;
 }
 .two .PinkSection {
   margin: 0 auto;
+  padding-top: 20px;
 }
 .two .PinkSection h3 {
   text-align: center;
+  margin-bottom: 30px;
 }
 .two .PinkSection .pictures-places {
   width: 90%;
@@ -90,14 +107,18 @@ main {
   margin-top: 30px;
 }
 .two .PinkSection .before-after {
-  width: 30%;
-  margin-left: 35%;
+  width: 20%;
+  margin-left: 40%;
   margin-top: 2%;
   margin-bottom: 5%;
 }
 .two .seconda-linea {
   width: 95%;
   margin: 0 auto;
+  border: 0.5px solid black;
+}
+.two h3 {
+  text-align: center;
 }
 
 .col-lg-12 {
